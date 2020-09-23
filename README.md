@@ -66,3 +66,6 @@ auto rage_tab = menu.add_element<c_tab>("RAGE", "test info");
 
 [New Version](https://i.imgur.com/GhJojHv.mp4)  
 [Old Version](https://gyazo.com/612099dd564931af86c4174c6abc152f)
+
+##### Credits
+nex - helping with the design in photoshop
