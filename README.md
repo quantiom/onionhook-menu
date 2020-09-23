@@ -1,6 +1,6 @@
 # onionhook-menu
 
-Menu for the "onionhook" CS:GO, Garry's Mod and TF2 hack.  
+Menu for the "onionhook" CS:GO, Garry's Mod and TF2 hack, but it can be used for anything.  
 I've stopped working on it in mid/late 2019 because cheating is boring.
 
 ## Usage
