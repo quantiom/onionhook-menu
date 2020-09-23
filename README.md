@@ -1,6 +1,6 @@
 # onionhook-menu
 
-Menu for the "onionhook" CS:GO, Garry's Mod and TF2 hack.
+Menu for the "onionhook" CS:GO, Garry's Mod and TF2 hack.  
 I've stopped working on it in mid/late 2019 because cheating is boring.
 
 ## Usage
@@ -64,5 +64,5 @@ auto rage_tab = menu.add_element<c_tab>("RAGE", "test info");
 
 ### Preview
 
-[New Version](https://i.imgur.com/GhJojHv.mp4)
+[New Version](https://i.imgur.com/GhJojHv.mp4)  
 [Old Version](https://gyazo.com/612099dd564931af86c4174c6abc152f)
