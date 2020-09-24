@@ -69,3 +69,4 @@ auto rage_tab = menu.add_element<c_tab>("RAGE", "test info");
 
 ##### Credits
 nex - helping with the design in photoshop
+jono - [mango library](https://github.com/jonomango/mango-library)
